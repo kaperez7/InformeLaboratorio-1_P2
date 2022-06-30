@@ -31,26 +31,36 @@ Considerar la Taxonomía de Bloom
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+![image](https://user-images.githubusercontent.com/105570939/176661052-8b9495c1-aafc-49f1-99be-d7158d8d3c2d.png)
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
+1. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+![image](https://user-images.githubusercontent.com/105570939/176664911-b0007268-ef01-4e7d-847e-bcb7831a595c.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+2. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
+![image](https://user-images.githubusercontent.com/105570939/176665110-cf964aec-7be6-43ca-8f61-a61159bdc365.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
+3. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
 
+![image](https://user-images.githubusercontent.com/105570939/176665374-f771ab9d-36b5-4445-ada1-0365bd21c4aa.png)
+
+![image](https://user-images.githubusercontent.com/105570939/176666396-d48b1963-c100-4ec1-95aa-5487eca9a5de.png)
+
+![image](https://user-images.githubusercontent.com/105570939/176675552-84715e8c-5412-42fd-9020-dc393fb6dd52.png)
+
+
+Calculos:
+
+![image](https://user-images.githubusercontent.com/105570939/176669691-7df6d327-494a-43e3-a044-4f4c3bdd12e1.png)
+
+![image](https://user-images.githubusercontent.com/105570939/176669917-1f872dd4-1452-46ff-9ebf-d4e50b1b3f67.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+![image](https://user-images.githubusercontent.com/105570939/176675834-6c980b64-8287-4cd4-ad2e-733b9001e41c.png)
+
+![image](https://user-images.githubusercontent.com/105570939/176676594-32b96d02-b102-4653-9f77-931f2ac719c7.png)
 
 5. VIDEO
 
