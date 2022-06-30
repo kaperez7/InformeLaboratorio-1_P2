@@ -2,7 +2,7 @@
 
 
 1. OBJETIVOS
-2. 
+
 Comprobar experimentalmente el Teorema de Superposición, mediante la simulacion y armado de un circuito usando la herramienta tinkercad, para medir la corriente y voltaje del circuito.
 
 * Explicar en qué consiste el Teorema de Superposición.
