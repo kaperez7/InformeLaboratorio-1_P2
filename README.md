@@ -65,7 +65,9 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 7. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+Teorema de superposiciÃ3n. (s. f.). Analisis de circuitos. Recuperado 28 de junio de 2022, de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
+
+Superposición (artículo). (s. f.). Khan Academy. Recuperado 28 de junio de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
 
 
 RUBRICA
