@@ -46,9 +46,14 @@ Calculos:
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-![image](https://user-images.githubusercontent.com/105570939/176675834-6c980b64-8287-4cd4-ad2e-733b9001e41c.png)
+![image](https://user-images.githubusercontent.com/105570939/176681417-23851e7f-d7fc-4cca-a16f-141140683e40.png)
 
-![image](https://user-images.githubusercontent.com/105570939/176676594-32b96d02-b102-4653-9f77-931f2ac719c7.png)
+![image](https://user-images.githubusercontent.com/105570939/176682869-3baf2790-60d5-4574-99a4-b21bb35b06f2.png)
+
+![image](https://user-images.githubusercontent.com/105570939/176683229-0c534333-77f3-4bde-b6a2-3c1b90b15935.png)
+
+* El error calculado es con los valores del circuito simulado y calculado ya que estos estan hechos con las mismas medidad.
+* En cambio los valores encontrados con el circuito armado van a tener un error mucho mas grande ya que no esta armado con las fuentes de voltaje igual tiene una fuente de voltaje menor de 5V y 9V.
 
 5. VIDEO
 
