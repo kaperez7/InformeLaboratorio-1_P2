@@ -23,17 +23,11 @@ Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+![image](https://user-images.githubusercontent.com/105679480/176570800-0fa4cbb6-f333-473f-894c-76339f1597e2.png)
+![image](https://user-images.githubusercontent.com/105679480/176570831-9ddd7ed7-e290-48ae-ad19-0921b70d3cd5.png)
+![image](https://user-images.githubusercontent.com/105679480/176570875-88b59dd2-6060-4fd3-a84b-dbcddce4c64a.png)
+![image](https://user-images.githubusercontent.com/105679480/176570911-af1deb51-0dec-46f0-ba6e-bcc99e448bc8.png)
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
-
-El contenido debe ser desarrollado.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
