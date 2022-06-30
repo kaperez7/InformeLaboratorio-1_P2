@@ -2,24 +2,12 @@
 
 
 1. OBJETIVOS
+2. 
+Comprobar experimentalmente el Teorema de Superposición, mediante la simulacion y armado de un circuito usando la herramienta tinkercad, para medir la corriente y voltaje del circuito.
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
-
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
+* Explicar en qué consiste el Teorema de Superposición.
+* Analizar e identificar la interacción de los elementos de un circuito con cada una de las fuentes de voltaje y corriente.
+* Calcular los voltajes de los elementos de un circuito eléctrico de usando el teorema de superposición y los obtenidos con un multímetro.
 
 2. MARCO TEÓRICO 
 
@@ -68,7 +56,9 @@ https://youtu.be/nQXB22HSJiU
 
 6. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* La teoría de la superposición es que la fuente de alimentación se cancela de acuerdo a su tipo, si es una fuente de voltaje, se suspenderá, pero la conexión permanece en su lugar anterior, a diferencia de la fuente de voltaje. El circuito creado elimina esta conexión de alimentación. El propósito de realizar la superposición es encontrar el valor de la corriente con una sola fuente, es decir, por separado, y realizar la suma algebraica de estas fuentes para obtener la corriente del circuito con las dos fuentes.
+* Si aplicamos el teorema de Superposición es necesario tener en cuenta que las fuentes de voltaje al igualarlas a 0 se comportan como un cortocircuito, por otro lado si tuvieramos fuentes de corriente estas se van a comportar como circuitos abiertos.
+* El resultado obtenido al calcular utilizando super posicion y los valores obtenido usando el software Thinkercard no presenta casi error, es decir, el teorema de superposición es una forma efectiva para encontrar la corriente. También se ha demostrado que al calcular el voltaje en A con la corriente de una sola fuente y sumarlo al resultado obtenido con la corriente de la otra, da el valor del voltaje en A obtenido en Thinkercard.
 
 
 7. BIBLIOGRAFÍA
