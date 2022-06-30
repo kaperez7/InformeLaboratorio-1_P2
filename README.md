@@ -40,7 +40,7 @@ Comprobar experimentalmente el Teorema de Superposición, mediante la simulacion
 
 Calculos:
 
-![image](https://user-images.githubusercontent.com/105570939/176669691-7df6d327-494a-43e3-a044-4f4c3bdd12e1.png)
+![image](https://user-images.githubusercontent.com/105570939/176686164-9a7687ca-7cb9-483c-8b2f-51b5384c1b60.png)
 
 ![image](https://user-images.githubusercontent.com/105570939/176669917-1f872dd4-1452-46ff-9ebf-d4e50b1b3f67.png)
 
